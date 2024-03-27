@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1UyUOr2Q5u8FDeAyJJ4jk9aaqLVPQWR6fszjzh2TkMSrZqbpfAqAftXbqpzbpkOxd0Lbmp7C7jFRIn9zCU8QAw==",
+  "dgSpecHash": "TXdisHa+WFx3KRt8eEl4O+b6gsNbZgMpem5WA0dItiZdevPhgj6M5NKhsfdoP7QDo00OTnHo37gY5z0AqOPDIA==",
   "success": true,
   "projectFilePath": "C:\\Programs\\Instagram\\Instagram.UnitTests\\Instagram.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\domin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\domin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\bogus\\35.5.0\\bogus.35.5.0.nupkg.sha512",
     "C:\\Users\\domin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\domin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\domin\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
